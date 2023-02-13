@@ -1,5 +1,5 @@
 
-## Who killed him
+## Who Killed Him
 
 ### FAQ
 
