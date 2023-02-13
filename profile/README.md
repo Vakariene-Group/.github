@@ -10,11 +10,11 @@
 
 - What does the name of the group mean?
 
-Answer:
+Answer: Vakariene from Lithuanian is a diner, a diner for people like break and something that they really like, so our group will make products which people will really like and they will make some break with them from "world hurry".
 
 - Who are we?
 
-Answer:
+Answer: We are developers, and we make some products that we like and which we can show to another communities
 
 ### WhoKilledHim
 
@@ -24,10 +24,12 @@ TODO: move this section to the WhoKilledHim repository
 
 - What roles does the members have?
 
-Answer:
+Answer: Creators, Developers, people who want to improve skills and work together
 
 - What are the time frames for development?
 
-Answer:
+Answer: 3 month, or till summer
 
 - When the story document will be created?
+
+Answer: On meeting
