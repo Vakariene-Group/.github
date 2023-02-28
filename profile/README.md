@@ -1,5 +1,3 @@
-❗ **Dear team leads, please answer following questions here.**
-
 ## FAQ
 
 ### The Vakariene team
@@ -10,13 +8,13 @@
 
 - What does the name of the group mean?
 
-Answer: Vakariene from Lithuanian is a diner, a diner for people like break and something that they really like, so our group will make products which people will really like and they will make some break with them from "world hurry".
+Answer: Vakariene from Lithuanian language is a diner, a diner for people like break and something that they really like, so our group will make products which people will really like and they will make some break with them from "world hurry".
 
 - Who are we?
 
-Answer: We are developers, and we make some products that we like and which we can show to another communities
+Answer: We are developers, and we make some products that we like and which we can show to another people
 
-### WhoKilledHim
+### Who Killed Him?
 
 <hr />
 
