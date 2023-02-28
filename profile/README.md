@@ -31,3 +31,8 @@ Answer: 3 month, or till summer
 - When the story document will be created?
 
 Answer: On meeting
+
+### Vakariene Group Positions
+- Mykyta Tishkin & Gleb Sorvenkov is **founders**
+- Demian Ruban is **head developer of "Who Killed Him"**
+- George Slabinskiy is **storyteller**
