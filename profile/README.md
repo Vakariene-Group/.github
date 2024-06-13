@@ -32,7 +32,7 @@ Answer: 3 months, or till summer
 
 Answer: On meeting
 
-### Vakariene Group Positions
+### Vognyar Group Positions
 - Mykyta Tishkin & Gleb Sorvenkov is **founders and developers**
 - Demian Ruban is **head developer of "Who Killed Him"**
 - George Slabinskiy is **storyteller and designer**
