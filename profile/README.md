@@ -36,3 +36,7 @@ Answer: On meeting
 - Mykyta Tishkin & Gleb Sorvenkov is **founders and developers**
 - Demian Ruban is **head developer of "Who Killed Him"**
 - George Slabinskiy is **storyteller and designer**
+- Shyngys Zhaksylyk is **Back-End Developer**
+- Leonid Petrov is **Back-End Developer**
+- Artem Konotopchick is **AI Developer**
+- Alexey Malafei? is **Graphic Designer**
